@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Spotlight Health</title>
+    <link rel="stylesheet" href="tuftesl.css"/>
+    <link rel="stylesheet" href="latex.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <article>
+     <p class="subtitle"><a href="https://www.spotlighthealth.co.uk">About</a> <a href="https://www.spotlighthealth.co.uk/FAQ">FAQ</a> <a href="https://www.spotlighthealth.co.uk/Contact">Get in touch</a></p>
+      <figure><img src="SL Logo.png" alt="SL Logo"  width: 400px, height: auto></figure>
+      <hr>
+      <section>
+      
+      <H1>Frequency Asked Questions</H1>
+     
+      <p><b>What are you making?</b></p>
+      <p>We are building a tool to diagnose Endometriosis non-invasively.</p>
+
+      <p><b>How does it work?</b></p>
+      <p>We use a broad set of information about a patient, provided by the patient, and use a it to look for signs typical of other positive endometriosis cases.</p>
+
+      <p><b>When will it be ready?</b></p>
+      <p>We're not sure yet, we're taking our time and making sure we have a solid platform before we allow out into the wild.</p>
+
+      <p><b>How can i help?</b></p>
+      <p>We love talking to endometriosis experts, if you're a gynaecologist, or a doctor with a special interest in endometriosis, particually in the UK please get in touch.</p>      
+
+      <p><b>Are you looking for investment</b></p>
+      <p>Not at the moment thank you.</p>
+
+      <p><b>Do you have any vacancies</b></p>
+      <p>Not yet, but likely at some point this year. You can register interest at Jobs@SpotlightHealth.co.uk</p>
+
+</section>
+    
+    
+      <section>
+        <hr>
+        <p id="epilogue">SpotlightHealth.co.uk</p>
+        <p><a href="https://www.linkedin.com/in/thomas-willshare/">LinkedIn</a</p>
+      </section>
+    </article>
+  </body>
+</html>
