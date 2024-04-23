@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Spotlight Health</title>
+    <link rel="stylesheet" href="tuftesl.css"/>
+    <link rel="stylesheet" href="latex.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <article>
+     <p class="subtitle"><a href="https://www.spotlighthealth.co.uk">About</a> &nbsp;&nbsp; <a href="https://www.spotlighthealth.co.uk/FAQ">FAQ</a> &nbsp;&nbsp; <a href="https://www.spotlighthealth.co.uk/101.html">Endometriosis101</a>  &nbsp;&nbsp; <a href="https://www.spotlighthealth.co.uk/contact.html">Contact</a></p>
+
+      <picture>
+  <source
+    srcset="SL website Logo dark.png"
+    class="dark-mode-image
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="SL_logo.png"
+    alt="SL Logo"
+    width= "500" height= "auto" padding= "10"
+  />
+</picture>
+      
+      <hr>
+      <section>
+
+<h2>Contact Us</h2>
+
+        <h3>Email</h3>
+        <p>Hello@SpotlightHealth.co.uk</p>  
+
+         <h3>Address</h3>
+        <p>Studio 1:05<br>Northern Design Centre,<br> Gateshead,<br> NE8 3DF</p>  
+
+        
+
+</section>
+    
+    
+      <section>
+        <hr>
+        <p id="epilogue">SpotlightHealth.co.uk</p>
+        <p><a href="https://www.linkedin.com/in/thomas-willshare/">LinkedIn</a</p>
+      </section>
+    </article>
+  </body>
+</html>
